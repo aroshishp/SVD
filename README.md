@@ -25,3 +25,5 @@ The repository contains the following:
      streamlit run interactiveTool.py
      ```
      The tool will open on a browser. The image can be uploaded in jpg, jpeg or png formats. The code will run automatically and display the compressed image along with a slider to adjust k values. A download button is also provided to download the required image. A demo is provided below.
+
+   ![Demo](https://github.com/aroshishp/SVD/blob/main/ImageCompressionDemo1.gif)
