@@ -1,4 +1,4 @@
-## Singular Value Decomposition
+# Singular Value Decomposition
 
 This repository contains the codes and outputs of implementing Singular Value Decomposition from scratch and using the algorithm to compress images.
 The images were first compressed in grayscale mode and the same method was extended to RGB matrices.
